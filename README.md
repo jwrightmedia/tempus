@@ -17,7 +17,7 @@ This is written in PHP, so that is a requirement for it to work on your server.
 
 *README.md* This file.
 
-*/examples/* Folder containing one example, for a concert venue that shows the next upcoming concert after the previous concert date has past. Each file is split up in order to easily update particular parts, with notes at the top of each file.
+*/examples/* *coming soon* Folder containing one example, for a concert venue that shows the next upcoming concert after the previous concert date has past. Each file is split up in order to easily update particular parts, with notes at the top of each file.
 
 ## Copyright and license
 
