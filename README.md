@@ -5,7 +5,7 @@ Tempus is a small PHP snippet built to swap content out based on manually set da
 
 The main example is a single file, with an example found in the */example*/ folder. 
 
-In Latin, tempus means 'time'. To be perfectly honest, I like naming things so I can remember them and so this snippet is simplied called tempus (time) because it hands the timed content, in a manual, custom PHP way.
+In Latin, tempus means 'time'. 
 
 --
 
